@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 18,
+    "editor.fontLigatures": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "diffEditor.codeLens": true,
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Firacode"
+}
